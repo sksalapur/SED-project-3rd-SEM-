@@ -1,0 +1,8 @@
+sks|bagalkot
+sks:bagalkot
+sks|belgaum
+sks|hubli
+sks:bgm
+sksalapur:BAGALKOT
+sksalapur:BELGAUM
+sks:hubli
