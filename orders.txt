@@ -1,0 +1,8 @@
+sks|2024-11-30 03:15:41|Virat|Chicken Biryanix1|200|UPI|bagalkot
+sksalapur|2024-11-30 03:16:36|Virat|Chicken Biryanix1|200|UPI|BAGALKOT
+sksalapur|2024-11-30 03:16:54|Virat|Veg Fried Ricex1|150|Credit/Debit Card|BELGAUM
+sksalapur|2024-11-30 03:17:06|Virat|Veg Fried Ricex1|150|Credit/Debit Card|BELGAUM
+sks|2024-11-30 03:29:01|Virat|Veg Mealsx1|120|UPI|bagalkot
+sksalapur|2024-11-30 03:29:34|Durga|Veg Mealsx2,Veg Fried Ricex3|840|Credit/Debit Card|BELGAUM
+sks|2024-11-30 03:55:12|Virat|Chicken Biryanix1|200|Cash on Delivery|bagalkot
+sks|2024-11-30 12:21:40|Virat|Chicken Biryanix1,Veg Fried Ricex1,Veg Mealsx1|470|UPI|hubli
